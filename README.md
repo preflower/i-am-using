@@ -7,6 +7,7 @@ Things I am using
 
 ## CLI
 - [unbuild](https://www.npmjs.com/package/unbuild) - Zero configure bundler base on rollup
+- [taze](https://www.npmjs.com/package/taze) - update dependencies
 
 ## Project
 - [Valibot](https://valibot.dev/guides/introduction/) - Validate data

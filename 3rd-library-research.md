@@ -12,3 +12,7 @@
 
 ### React
 - [react-hotkeys-hook](https://react-hotkeys-hook.vercel.app/) - Listen for user keyboard events with hooks
+
+## Animation
+
+- [Rive](https://rive.app/) - A substitute for Lottie, more light(gzip≈28kb)

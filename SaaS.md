@@ -1,2 +1,3 @@
 - [FreeFlarum](https://freeflarum.com/) - 免费论坛， 适合给SaaS业务提供论坛支持
 - [framer](https://www.framer.com/) - 快速创建官网
+- [clarity](https://clarity.microsoft.com/) - 监听用户行为, 包含录屏, 追踪文章的完读率(默认提供滚动深度/无效点击/过度滚动/快速后退的能力)等功能

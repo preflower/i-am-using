@@ -8,7 +8,7 @@ Things I am using
 ## CLI
 - [unbuild](https://www.npmjs.com/package/unbuild) - Zero configure bundler base on rollup
 - [taze](https://www.npmjs.com/package/taze) - Update dependencies
-- [ngrok](https://ngrok.com/) - Local port forwarding
+- [ngrok](https://ngrok.com/) - Local port proxy
 
 ## Project
 - [Valibot](https://valibot.dev/guides/introduction/) - Validate data

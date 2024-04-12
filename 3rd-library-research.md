@@ -16,3 +16,6 @@
 ## Animation
 
 - [Rive](https://rive.app/) - A substitute for Lottie, more light(gzip≈28kb)
+
+## Web Worker
+- [comlink](https://www.npmjs.com/package/comlink) - Make workers' tranmission like call async function

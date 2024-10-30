@@ -4,6 +4,7 @@ Things I am using
 ## React
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) - State management
 - [React i18next](https://react.i18next.com/)
+- [Framer motion](https://www.framer.com/motion/) - Physical animation library
 
 ## CLI
 - [unbuild](https://www.npmjs.com/package/unbuild) - Zero configure bundler base on rollup
